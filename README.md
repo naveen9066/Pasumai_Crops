@@ -123,10 +123,13 @@ Integration with government schemes
 📄 License
 This project is licensed under the MIT License.
 ----
-👨‍💻 Developed By
-Naveen S
-🎓 Final Year Project – Smart Agriculture Initiative
-🔗 GitHub: @Naveen
+## 🧑‍💻 Developed By
+
+- **Name**: Naveen S  
+- **Role**: Flutter Developer 
+- **Email**: naveenjkkm9066@gmail.com.com  
+- **GitHub**: https://github.com/naveen9066/Pasumai_Crops.git
+- **LinkedIn**: https://www.linkedin.com/in/naveensakthivel 
 ---
 🙌 Acknowledgements
 
